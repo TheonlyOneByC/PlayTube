@@ -7,7 +7,7 @@
     <string name="cancel">Odustani</string>
     <string name="delete">Izbriśi</string>
     <string name="search">Pretrźaj</string>
-    <string name="no_internet">Nema interneta/string>
+    <string name="no_internet">Nema interneta</string>
     <string name="error_prefix">Error: %s</string>
     <string name="clear">Oćistite</string>
     <string name="close">Zatvorite</string>
@@ -18,7 +18,7 @@
 <string name="personalized_title">Personalizovane preporuke</string>
 <string name="personalized_desc">Na osnovu vaše istorije pretrage</string>
     <string name="no_subscriptions_videos">Nema videa sa preplatama</string>
-    <string name="no_videos_found">Nema pronađenih videag</string>
+    <string name="no_videos_found">Nema pronađenih videa</string>
     <string name="continue_playing">Nastaviti video</string>
 
     <!-- Player -->
@@ -63,7 +63,7 @@
     <string name="no_playlists">Nema playlistova</string>
     <string name="no_playlists_desc">Nema opis da ovu playlistu</string>
     <string name="discover_videos">Pronađi nove videve</string>
-    <string name="remove_from_favorites">Izbriši iz omiljenoh(</string>
+    <string name="remove_from_favorites">Izbriši iz omiljih(</string>
     <string name="add_to_favorites">Dodaj omiljeni</string>
     <string name="delete_download_title">Izbriśi video naslov?</string>
     <string name="delete_download_desc">Izbriši video opis?</string>
