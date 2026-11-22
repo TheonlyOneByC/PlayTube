@@ -1,0 +1,272 @@
+<resources>
+    <string name="app_name">PlayTube</string>
+
+    <!-- General -->
+    <string name="retry">Pokusajte ponovo</string>
+    <string name="back">Nazad</string>
+    <string name="cancel">Odustani</string>
+    <string name="delete">Izbriśi</string>
+    <string name="search">Pretrźaj</string>
+    <string name="no_internet">Nema interneta/string>
+    <string name="error_prefix">Error: %s</string>
+    <string name="clear">Oćistite</string>
+    <string name="close">Zatvorite</string>
+
+    <!-- Home -->
+    <string name="tab_for_you">Za vas</string>
+<string name="tab_subscriptions">Pretplate</string>
+<string name="personalized_title">Personalizovane preporuke</string>
+<string name="personalized_desc">Na osnovu vaše istorije pretrage</string>
+    <string name="no_subscriptions_videos">Nema videa sa preplatama</string>
+    <string name="no_videos_found">Nema pronađenih videag</string>
+    <string name="continue_playing">Nastaviti video</string>
+
+    <!-- Player -->
+    <string name="quality">Kvalitet</string>
+    <string name="playback_speed">Playback brzina</string>
+    <string name="description">Opis</string>
+    <string name="more">Više</string>
+    <string name="related_videos">Slićni videji</string>
+    <string name="download">Instaliranje</string>
+    <string name="downloaded">Instalirano</string>
+    <string name="like">Like</string>
+    <string name="liked">Lajkovani</string>
+    <string name="save">Saćuvaj</string>
+    <string name="saved">Saćuvani</string>
+    <string name="share">Podjeli</string>
+    <string name="info">Informacije</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="subscribed">Subscrijovan</string>
+    <string name="auto">auto</string>
+    <string name="normal_speed">Normalna brzina</string>
+    <string name="no_description">Nema opisa</string>
+    <string name="loading">Ućitavanje...</string>
+    <string name="toggle_subtitles">Izaberite title</string>
+    <string name="settings">Podešavanja</string>
+    <string name="waiting_for_connection">Čekanje za konekciju..</string>
+
+    <!-- Library -->
+    <string name="library">Bibljioteka</string>
+    <string name="history">Istorija</string>
+    <string name="subscriptions">Pretplake</string>
+    <string name="downloads">Instalirano</string>
+    <string name="favorites">Omiljeni videi</string>
+    <string name="see_all">Pogledajte sve</string>
+    <string name="no_history">Nema istorije</string>
+    <string name="no_history_desc">Nema opis istorije.</string>
+    <string name="no_downloads">Nema instaliranih videa</string>
+    <string name="no_downloads_desc">Nema opis instaliranih videa</string>
+    <string name="no_favorites">Nema omiljenih videa</string>
+    <string name="no_favorites_desc">Nema omiljeni opis videa.</string>
+    <string name="no_subscriptions">Nema pretplata</string>
+    <string name="no_subscriptions_desc">Nema opis pretplaka</string>
+    <string name="no_playlists">Nema playlistova</string>
+    <string name="no_playlists_desc">Nema opis da ovu playlistu</string>
+    <string name="discover_videos">Pronađi nove videve</string>
+    <string name="remove_from_favorites">Izbriši iz omiljenoh(</string>
+    <string name="add_to_favorites">Dodaj omiljeni</string>
+    <string name="delete_download_title">Izbriśi video naslov?</string>
+    <string name="delete_download_desc">Izbriši video opis?</string>
+
+    <!-- Search -->
+    <string name="search_placeholder">Pronađi na playtube</string>
+    <string name="discover_new">Pronađi novo</string>
+    <string name="recent_searches">Nedavni pronašci</string>
+    <string name="clear_all">Izbriši sve</string>
+    <string name="sort_relevance">Relevetno</string>
+    <string name="sort_newest">Najmlađe</string>
+    <string name="sort_most_viewed">Najviše gledano </string>
+    <string name="sort_top_rated">Najbolje ocenjeno</string>
+
+    <!-- Channel & Playlist -->
+    <string name="videos">Videi</string>
+    <string name="playlists">Playliste</string>
+    <string name="subscribers_hidden">Subscriberi skriveni</string>
+    <string name="subscribers_count">%s subcribera</string>
+    <string name="playlist">Playlista</string>
+    <string name="by_author">Autor: %s</string>
+    <string name="download_all">Instaliraj sve</string>
+    <string name="video_count">%s videa</string>
+    <string name="background_play">Igraj u pozadini</string>
+    <string name="background_play_desc">Igraj videje u pozadini</string>
+
+    <!-- Final Audit Additions -->
+    <string name="back_online">Vratise online</string>
+    <string name="offline_dialog_text">Nalazite se u oflajn režimu. Provjerite preuzete video-snimke.</string>
+<string name="go_to_downloads">Idi na preuzimanja</string>
+<string name="incognito_label">Anonimni režim</string>
+<string name="smart_cleanup_title">Pametno čišćenje</string>
+<string name="smart_cleanup_desc">Ukloniće sve preuzete video-snimke koje ste već pogledali (više od 90%).</string>
+<string name="clean_now">Očisti sada</string>
+<string name="clear_history_title">Obrisati istoriju gledanja?</string>
+<string name="clear_history_desc">Da li ste sigurni da želite da obrišete cijelu istoriju gledanja? Ova radnja se ne može poništiti.</string>
+<string name="pause_watch_history">Pauziraj bilježenje istorije</string>
+<string name="not_interested">Ne zanima me</string>
+<string name="up_next">Sljedeće</string>
+<string name="play_now">Pusti sada</string>
+<string name="search_offline">Pretraga van mreže...</string>
+<string name="duration">Trajanje</string>
+<string name="apply">Primijeni</string>
+<string name="close_app_on_finish">Zatvori aplikaciju po završetku</string>
+<string name="close_app_desc">Štedi bateriju zatvaranjem aplikacije PlayTube</string>
+<string name="timer_minutes_placeholder">%d min.</string>
+<string name="subtitles">Titlovi</string>
+<string name="off">Isključeno</string>
+<string name="history_cleared">Istorija je obrisana</string>
+<string name="ends_at">Završava se u %s</string>
+<string name="video_quality">Kvalitet videa</string>
+<string name="video">Video</string>
+<string name="audio">Audio</string>
+<string name="high_quality">Visok kvalitet</string>
+<string name="download_quality">Kvalitet preuzimanja</string>
+<string name="playlist_download_quality">Kvalitet preuzimanja plejlista</string>
+<string name="auto_generated">Automatski generisano</string>
+<string name="app_language">Jezik aplikacije</string>
+<string name="language_auto_generated">%1$s (%2$s)</string>
+
+    <!-- Sleep Timer -->
+<string name="sleep_timer">Tajmer za spavanje</string>
+<string name="timer_off">Isključeno</string>
+<string name="timer_15">15 minuta</string>
+<string name="timer_30">30 minuta</string>
+<string name="timer_45">45 minuta</string>
+<string name="timer_60">60 minuta</string>
+<string name="timer_end_of_video">Na kraju videa</string>
+<string name="timer_minutes_remaining">Preostalo %d min.</string>
+<string name="timer_end_of_video_active">Zaustaviće se na kraju videa</string>
+
+<!-- Settings -->
+<string name="about_developer">O programeru</string>
+<string name="developed_by">Razvili Arsalan Daim i saradnici</string>
+<string name="ok">U redu</string>
+<string name="confirm">Potvrdi</string>
+<string name="clear_all_downloads_title">Obrisati sve preuzete video-snimke?</string>
+<string name="clear_all_downloads_desc">Da li ste sigurni da želite da obrišete sve preuzete video-snimke? Ova radnja se ne može poništiti.</string>
+<string name="clear_learned_data_title">Obrisati istoriju interesovanja?</string>
+<string name="clear_learned_data_desc">Ovim će se obrisati svi prikupljeni podaci o vašim interesovanjima i resetovati sistem preporuka. Ova radnja se ne može poništiti.</string>
+<string name="settings_group_update">Ažuriranje aplikacije</string>
+<string name="settings_auto_update">Automatska provjera novih izdanja na GitHub-u</string>
+<string name="settings_auto_update_desc">Obavještavaj me kada nova verzija bude dostupna na GitHub-u</string>
+<string name="update_available">Dostupno je novo ažuriranje: %s</string>
+<string name="download_from_github">Preuzmi sa GitHub-a</string>
+<string name="settings_group_history_privacy">Istorija i privatnost</string>
+<string name="settings_view_history">Istorija gledanja</string>
+<string name="settings_view_history_desc">Upravljanje odgledanim video-snimcima</string>
+<string name="settings_pause_search_history">Pauziraj istoriju pretrage</string>
+<string name="settings_pause_search_history_desc">Prijedlozi za pretragu će takođe biti pauzirani</string>
+<string name="settings_pip">Režim slika u slici</string>
+<string name="settings_pip_desc">Nastavi gledanje u umanjenom prozoru</string>
+<string name="settings_data_backup">Podaci i rezervne kopije</string>
+<string name="settings_data_backup_desc">Uvoz Takeout podataka i lokalnih rezervnih kopija</string>
+<string name="settings_pause_recommendations">Pauziraj preporuke</string>
+<string name="settings_pause_recommendations_desc">Privremeno obustavi analizu svojih interesovanja</string>
+<string name="settings_clear_learned_data">Resetuj podatke o preporukama</string>
+<string name="settings_clear_learned_data_desc_item">Resetuj profil sistema preporuka</string>
+<string name="recommendation_algorithm">PlayTube mehanizam</string>
+<string name="recommendation_algorithm_desc">Statistika, glavni kanal i upravljanje mehanizmom</string>
+<string name="playtube_engine">PlayTube mehanizam</string>
+<string name="playtube_engine_desc">Statistika, glavni kanal i upravljanje mehanizmom</string>
+<string name="tracked_topics">Praćene teme</string>
+<string name="top_interest">Glavno interesovanje</string>
+<string name="top_channel">Glavni kanal</string>
+<string name="algorithm_status">Status algoritma</string>
+<string name="status_active">Aktivan</string>
+<string name="status_paused">Pauziran</string>
+<string name="no_interests_learned">Profil preporuka još nije formiran.</string>
+<string name="learned_topic_profile">Profil naučenih tema</string>
+<string name="learned_topic_profile_desc">Glavne teme i težinski koeficijenti preporuka</string>
+<string name="settings_group_appearance_playback">Izgled i reprodukcija</string>
+<string name="appearance_customization">Izgled i prilagođavanje</string>
+<string name="appearance_customization_desc">Boja teme, Material You, pokreti i blokiranje AI sadržaja</string>
+<string name="theme_mode">Režim teme</string>
+<string name="theme_mode_system">Sistemska tema</string>
+<string name="theme_mode_system_desc">Usklađuje se sa podešavanjima uređaja</string>
+<string name="theme_mode_light">Svijetla</string>
+<string name="theme_mode_light_desc">Svijetli izgled</string>
+<string name="theme_mode_dark">Tamna</string>
+<string name="theme_mode_dark_desc">Tamna tema optimizovana za OLED ekrane</string>
+<string name="settings_player_gestures">Pokreti u plejeru</string>
+<string name="settings_player_gestures_desc">Omogući prevlačenje za kontrolu jačine zvuka i svjetline</string>
+<string name="settings_material_you">Material You</string>
+<string name="settings_material_you_desc">Prilagodi boje temi uređaja</string>
+<string name="theme_accent_color">Akcentna boja teme</string>
+<string name="theme_accent_color_desc">Izaberi prilagođenu paletu boja</string>
+<string name="system_default">Podrazumijevana sistemska tema</string>
+<string name="settings_subtitle_styles">Stil titlova</string>
+<string name="settings_subtitle_styles_desc">Podesi veličinu fonta i pozadinu</string>
+<string name="subtitle_font_size">Veličina fonta: %d sp</string>
+<string name="subtitle_background_opacity">Neprozirnost pozadine: %d%%</string>
+<string name="subtitle_preview">Pregled titlova</string>
+<string name="settings_group_content">Sadržaj</string>
+<string name="settings_clear_downloads">Obriši sve preuzete video-snimke</string>
+<string name="settings_clear_downloads_desc">Obriši sve video-snimke dostupne van mreže</string>
+<string name="settings_group_about">O aplikaciji</string>
+<string name="settings_about_developer">O programeru</string>
+<string name="settings_about_developer_desc">Informacije o autoru</string>
+<string name="settings_view_source">Izvorni kod</string>
+<string name="settings_view_source_desc">Pogledaj projekat na GitHub-u</string>
+<string name="settings_app_version">Verzija aplikacije</string>
+
+<!-- Import Errors -->
+<string name="error_history_not_found">Fajl istorije nije pronađen u ZIP arhivi niti među izabranim fajlovima</string>
+<string name="error_subscriptions_not_found">Fajl pretplata nije pronađen u ZIP arhivi niti među izabranim fajlovima</string>
+<string name="error_malformed_history">Neispravan fajl istorije</string>
+<string name="error_malformed_csv">Neispravan CSV fajl pretplata</string>
+<string name="importing_items">Uvezeni elementi: %d...</string>
+
+<!-- Player Action & Repeat Modes -->
+<string name="repeat_off">Ponavljanje isključeno</string>
+<string name="repeat_one">Ponavljaj jedan</string>
+<string name="repeat_play_next">Automatska reprodukcija</string>
+<string name="repeat_mode">Režim ponavljanja</string>
+<string name="downloaded_videos">Preuzeti video-snimci</string>
+<string name="offline_downloads">Preuzimanja za gledanje van mreže</string>
+<string name="added_to_favorites">Dodato u „Sviđa mi se“</string>
+<string name="removed_from_favorites">Uklonjeno iz „Sviđa mi se“</string>
+<string name="downloading_started">Preuzimanje je započeto</string>
+<string name="connection_lost_waiting">Veza je izgubljena. Čeka se ponovno uspostavljanje veze...</string>
+<string name="no_previous_video">Nema prethodnog video-snimka u trenutnoj sesiji</string>
+<string name="skipped_segment">Preskočeno: %s</string>
+<string name="audio_track">Zvučni zapis</string>
+<string name="select_audio_track">Izaberi zvučni zapis</string>
+
+<!-- Data & Backup -->
+<string name="data_and_backup">Podaci i rezervne kopije</string>
+<string name="youtube_takeout_import">Uvoz iz YouTube Takeout-a</string>
+<string name="import_watch_history">Uvezi istoriju gledanja</string>
+<string name="import_watch_history_desc">Izaberi watch-history.json ili ZIP arhivu iz Takeout-a</string>
+<string name="import_subscriptions">Uvezi pretplate</string>
+<string name="import_subscriptions_desc">Izaberi subscriptions.csv ili ZIP arhivu iz Takeout-a</string>
+<string name="playtube_native_backup">Lokalna rezervna kopija PlayTube-a</string>
+<string name="create_backup">Napravi rezervnu kopiju</string>
+<string name="create_backup_desc">Sačuvaj sve podatke PlayTube-a u fajl</string>
+<string name="restore_backup">Vrati iz rezervne kopije</string>
+<string name="restore_backup_desc">Vrati podatke iz prethodno napravljenog fajla</string>
+<string name="import_background_hint">Možeš napustiti ovu stranicu. Uvoz će se nastaviti u pozadini.</string>
+<string name="import_complete">Uvoz je završen!</string>
+<string name="dismiss">Zatvori</string>
+<string name="import_failed">Uvoz nije uspio</string>
+<string name="processing">Obrada...</string>
+
+<!-- Subscriptions Screen -->
+<string name="unsubscribe_confirm_title">Potvrdi otkazivanje pretplate</string>
+<string name="unsubscribe_confirm_message">Da li ste sigurni da želite da otkažete pretplatu na %s?</string>
+<string name="unsubscribe">Otkaži pretplatu</string>
+<string name="search_subscriptions">Pretraži pretplate</string>
+<string name="no_matching_channels">Nema pronađenih kanala</string>
+<string name="try_different_search">Pokušaj sa drugačijom pretragom</string>
+
+<!-- Appearance & Customization -->
+<string name="live_theme_preview">Pregled teme</string>
+<string name="content_controls">Kontrola sadržaja</string>
+<string name="block_ai_content">Blokiraj AI sadržaj</string>
+<string name="block_ai_content_desc">Sakrij AI video-snimke i kanale sa početne stranice</string>
+<string name="theme_mode_oled">OLED crna tema</string>
+<string name="sample_action">Primjer radnje</string>
+<string name="selected_chip">Izabrana oznaka</string>
+
+    <!-- Dialogs -->
+    <string name="create_new_playlist">Napravite novu playlistu</string>
+    <string name="playlist_name">Ime playliste</string>
+    <string name="create">Napravi</string>
+</resources>
